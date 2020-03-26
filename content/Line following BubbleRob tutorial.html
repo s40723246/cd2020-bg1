@@ -154,11 +154,95 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">members << <a href='members.html'>Previous</a> <a href='assignments 1.html'>Next</a> >> assignments 1<br /><h1>assignments</h1>
-<p><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" style="color: #0000ff;" xml:lang="EN-US"><span class="SpellingError BCX0 SCXW118066248" data-wac-het="1">First work </span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="SpellingError BCX0 SCXW118066248" data-wac-het="1">實施四輪機器人</span></span></p>
-<p><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="SpellingError BCX0 SCXW118066248" data-wac-het="1">1.<a href="http://www.coppeliarobotics.com/helpFiles/index.html">整理資料</a></span><span class="NormalTextRun BCX0 SCXW118066248" data-wac-het="1" style="color: #000000;"> [</span></span><span style="color: #ff6600;"><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="SpellingError BCX0 SCXW118066248" data-wac-het="1">BubbleRob</span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun BCX0 SCXW118066248" data-wac-het="1"> </span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="SpellingError BCX0 SCXW118066248" data-wac-het="1">tutorial、Line</span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun BCX0 SCXW118066248" data-wac-het="1"> following </span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="SpellingError BCX0 SCXW118066248" data-wac-het="1">BubbleRob</span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun BCX0 SCXW118066248" data-wac-het="1"> tutorial 、External controller tutorial </span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun BCX0 SCXW118066248" data-wac-het="1">、Simulation </span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="SpellingError BCX0 SCXW118066248" data-wac-het="1">dialog</span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" xml:lang="EN-US"><span class="SpellingError BCX0 SCXW118066248" data-wac-het="1">、Simulation</span></span><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" style="color: #000000;" xml:lang="EN-US"><span class="NormalTextRun BCX0 SCXW118066248" data-wac-het="1">] </span></span></span></p>
-<p><span style="color: #ff6600;"><span class="TextRun BCX0 SCXW118066248" data-contrast="auto" lang="EN-US" style="color: #000000;" xml:lang="EN-US"><span class="NormalTextRun BCX0 SCXW118066248" data-wac-het="1"></span></span></span></p>
-<br />members << <a href='members.html'>Previous</a> <a href='assignments 1.html'>Next</a> >> assignments 1</div>
+    <div id="tipue_search_content">Simulation PDF << <a href='Simulation PDF.html'>Previous</a> <a href='External controller tutorial.html'>Next</a> >> External controller tutorial<br /><h1>Line following BubbleRob tutorial</h1>
+<h5><span lang="zh-TW">在本教程中，我們旨在擴展BubbleRob的功能，以使他/她遵循地面上的規則。確保您已經閱讀並理解了第一個BubbleRob教程。本教程由Eric Rohmer提供。</span></h5>
+<h5 class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW">在CoppeliaSim的安裝文件夾中的tutorials / BubbleRob中加載第一個BubbleRob教程的場景。與本教程相關的場景文件位於tutorials / LineFollowingBubbleRob中。<br/>下圖說明了我們將設計的仿真場景：</span></h5>
+<h5 class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW"><img height="353" src="https://www.coppeliarobotics.com/helpFiles/en/images/lbubbleRobTut1.jpg" width="544"/><br/></span></h5>
+<h5 class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW">我們首先創建3個視覺傳感器中的第一個，並將其附加到bubbleRob對象。選擇[菜單欄-&gt;添加-&gt;視覺傳感器-&gt;正交類型]。通過雙擊場景層次中新創建的視覺傳感器圖標來編輯其屬性，並更改參數以反映以下對話框：</span></h5>
+<p><span lang="zh-TW">                                  <img height="405" src="https://www.coppeliarobotics.com/helpFiles/en/images/lbubbleRobTut2.jpg" width="261"/></span></p>
+<h5><span lang="zh-TW">視覺傳感器必需面向地面，因此選擇它，然後在“方向”對話框中的“方向”選項上，將“ Alpha-Beta-Gamma”項設置為[180; 0; 0]。</span></h5>
+<h5><span lang="zh-TW">我們有幾種可能性可以讀取視覺傳感器。由於我們的視覺傳感器只有一個像素，並且操作簡單，因此我們只需查詢視覺傳感器讀取的圖像的平均強度值即可。對於更複雜的情況，我們可以設置視覺回調函數。現在，複製並貼上視覺傳感器兩次，並將其名稱調整為leftSensor，middleSensor和rightSensor。將bubbleRob設置為其關係（即，將其附加到bubbleRob對象）。現在，您的傳感器在場景層次中應如下所示：</span></h5>
+<p><span lang="zh-TW">                                     <img src="https://www.coppeliarobotics.com/helpFiles/en/images/lbubbleRobTut4.jpg"/></span></p>
+<h5 class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW">讓我們正確放置傳感器。為此使用位置對話框，在位置選項卡上，並設置以下絕對坐標： 左傳感器：[0.2; 0.042; 0.018] 中間傳感器：[0.2; 0; 0.018] 右傳感器：[0.2; -0.042; 0.018]<br/><span><br/>現在讓我們修改環境。我們可以移去BubbleRob前面的幾個圓柱體。接下來，我們將構建機器人將嘗試遵循的路徑。從現在開始切換到頂視圖：通過頁面選擇器工具欄按鈕選擇頁面4。然後點擊[菜單欄-&gt;添加-&gt;路徑-&gt;圓圈類型]。使用鼠標啟用對象移動。您可以通過兩種方式調整路徑的形狀： 選擇路徑（並且只有路徑）後，按住Ctrl並點擊其控制點之一。然後可以將它們拖動到正確的位置。 選擇路徑後，進入路徑編輯模式。在那裡，您可以靈活地調整各個路徑控制點。</span><br/></span></h5>
+<h5 class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW">一旦對路徑的幾何形狀滿意（您隨時可以在以後的階段對其進行修改），請選擇它，然後在路徑屬性中取消選中“顯示點的方向”，“顯示路徑線”和“顯示路徑上的當前位置”。然後點擊顯示路徑整形對話框。這將打開路徑整形對話框。點擊啟用路徑變更，將類型設置為水平線段，並將縮放因子設置為4.0。最後將顏色調整為黑色。我們必須對路徑進行最後一個重要的調整：當前，路徑的z位置與地板的z位置重合。結果是有時我們會看到路徑，有時會看到地板（這種效果在openGl行話中被稱為“ z-fighting”）。這不僅影響我們所看到的，而且還會影響視覺傳感器所看到的。為了避免與z戰鬥有關的問題，只需將路徑對象的位置向上移動0.5毫米即可。</span></h5>
+<h5 class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW">最後一步是調整BubbleRob的控制器，使其也將遵循黑色路徑。打開附加到bubbleRob的子腳本，並將其替換為以下代碼：</span></h5>
+<table>
+<tbody>
+<tr>
+<td>
+<pre class="lightRedBox">function speedChange_callback(ui,id,newVal)
+    speed=minMaxSpeed[1]+(minMaxSpeed[2]-minMaxSpeed[1])*newVal/100
+end
+
+function sysCall_init()
+    -- This is executed exactly once, the first time this script is executed
+    bubbleRobBase=sim.getObjectAssociatedWithScript(sim.handle_self)
+    leftMotor=sim.getObjectHandle("leftMotor")
+    rightMotor=sim.getObjectHandle("rightMotor")
+    noseSensor=sim.getObjectHandle("sensingNose")
+    minMaxSpeed={50*math.pi/180,300*math.pi/180}
+    backUntilTime=-1 -- Tells whether bubbleRob is in forward or backward mode
+    floorSensorHandles={-1,-1,-1}
+    floorSensorHandles[1]=sim.getObjectHandle("leftSensor")
+    floorSensorHandles[2]=sim.getObjectHandle("middleSensor")
+    floorSensorHandles[3]=sim.getObjectHandle("rightSensor")
+    -- Create the custom UI:
+        xml = '&lt;ui title="'..sim.getObjectName(bubbleRobBase)..' speed" closeable="false" resizeable="false" activate="false"&gt;'..[[
+        &lt;hslider minimum="0" maximum="100" onchange="speedChange_callback" id="1"/&gt;
+        &lt;label text="" style="* {margin-left: 300px;}"/&gt;
+        &lt;/ui&gt;
+        ]]
+    ui=simUI.reate(xml)
+    speed=(minMaxSpeed[1]+minMaxSpeed[2])*0.5
+    simUI.setSliderValue(ui,1,100*(speed-minMaxSpeed[1])/(minMaxSpeed[2]-minMaxSpeed[1]))
+end
+
+function sysCall_actuation()
+    result=sim.readProximitySensor(noseSensor)
+    if (result&gt;0) then backUntilTime=sim.getSimulationTime()+4 end
+
+    -- read the line detection sensors:
+    sensorReading={false,false,false}
+    for i=1,3,1 do
+        result,data=sim.readVisionSensor(floorSensorHandles[i])
+        if (result&gt;=0) then
+            sensorReading[i]=(data[11]&lt;0.3) -- data[11] is the average of intensity of the image
+        end
+        print(sensorReading[i])
+    end
+
+    -- compute left and right velocities to follow the detected line:
+    rightV=speed
+    leftV=speed
+    if sensorReading[1] then
+        leftV=0.03*speed
+    end
+    if sensorReading[3] then
+        rightV=0.03*speed
+    end
+    if sensorReading[1] and sensorReading[3] then
+        backUntilTime=sim.getSimulationTime()+2
+    end
+
+    if (backUntilTime&lt;sim.getSimulationTime()) then
+        -- When in forward mode, we simply move forward at the desired speed
+        sim.setJointTargetVelocity(leftMotor,leftV)
+        sim.setJointTargetVelocity(rightMotor,rightV)
+    else
+        -- When in backward mode, we simply backup in a curve at reduced speed
+        sim.setJointTargetVelocity(leftMotor,-speed/2)
+        sim.setJointTargetVelocity(rightMotor,-speed/8)
+    end
+end
+
+function sysCall_cleanup()
+	simUI.destroy(ui)<br/>end</pre>
+</td>
+</tr>
+</tbody>
+</table>
+<h5 class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr" id="tw-target-text"><span lang="zh-TW">您可以輕鬆地調試以下視覺傳感器的生產線：選擇一個，然後在場景視圖中選擇[右鍵-&gt;添加-&gt;浮動視圖]，然後在新添加的浮動視圖中選擇[右鍵-&gt;視圖- -&gt;將視圖與選定的視覺傳感器關聯]。</span></h5>
+<br />Simulation PDF << <a href='Simulation PDF.html'>Previous</a> <a href='External controller tutorial.html'>Next</a> >> External controller tutorial</div>
         
     <!-- footer -->
       <div class="container">
