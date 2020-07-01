@@ -493,7 +493,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200702014008.2">### week17
-##### 期末報告
+##### 期末報告組員
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zzApD98DmfI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
