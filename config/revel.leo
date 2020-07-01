@@ -85,9 +85,6 @@
 <v t="leo.20200624103124.1"><vh>week17</vh>
 <v t="leo.20200624103124.2"><vh>week17-1</vh></v>
 </v>
-<v t="leo.20200701212341.1"><vh>week17</vh>
-<v t="leo.20200701212341.2"><vh>week17-1</vh></v>
-</v>
 <v t="leo.20191213144252.1"><vh>快捷鍵</vh>
 <v t="leo.20191213144252.2"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -367,7 +364,7 @@ make.start()
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-cd2020-bg1
+CMSimfly 網際內容管理
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -746,7 +743,8 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20200624103124.2">### week17
 ##### 期末報告
-[組員](https://s40723246.github.io/cd2020-bg1/content/%E7%B5%84%E5%93%A1%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.html)</t>
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zzApD98DmfI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200701200644.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -775,13 +773,5 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20200701201336.2">### meeting-5
 ##### 第一組第五次直播會議
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lQDkfyxvzb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200701212341.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200701212341.2">### week17
-</t>
 </tnodes>
 </leo_file>
