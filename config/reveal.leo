@@ -85,6 +85,9 @@
 <v t="leo.20200624103124.1"><vh>week17</vh>
 <v t="leo.20200624103124.2"><vh>week17-1</vh></v>
 </v>
+<v t="leo.20200701212341.1"><vh>week17</vh>
+<v t="leo.20200701212341.2"><vh>week17-1</vh></v>
+</v>
 <v t="leo.20191213144252.1"><vh>快捷鍵</vh>
 <v t="leo.20191213144252.2"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -772,5 +775,13 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20200701201336.2">### meeting-5
 ##### 第一組第五次直播會議
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lQDkfyxvzb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200701212341.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200701212341.2">### week17
+</t>
 </tnodes>
 </leo_file>
