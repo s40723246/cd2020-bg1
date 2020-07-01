@@ -21,62 +21,68 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>分組</vh>
-<v t="leo.20180902120523.12"><vh>week</vh></v>
+<v t="leo.20200702013708.1"><vh>分組</vh>
+<v t="leo.20200702013708.2"><vh>week</vh></v>
 </v>
-<v t="leo.20200625035532.1"><vh>week1</vh>
-<v t="leo.20200625035532.2"><vh>week1-1</vh></v>
+<v t="leo.20200702013721.1"><vh>week1</vh>
+<v t="leo.20200702013721.2"><vh>week1-1</vh></v>
 </v>
-<v t="leo.20200625035536.1"><vh>week2</vh>
-<v t="leo.20200625035536.2"><vh>week2-1</vh></v>
+<v t="leo.20200702013733.1"><vh>meeting-1</vh>
+<v t="leo.20200702013733.2"><vh>week2-1</vh></v>
 </v>
-<v t="leo.20200625035538.1"><vh>ASSIGNMENT1</vh>
-<v t="leo.20200625035538.2"><vh>weekA-1</vh></v>
+<v t="leo.20200702013743.1"><vh>PDF</vh>
+<v t="leo.20200702013743.2"><vh>week</vh></v>
 </v>
-<v t="leo.20200625035540.1"><vh>week3</vh>
-<v t="leo.20200625035540.2"><vh>week3-1</vh></v>
+<v t="leo.20200702013751.1"><vh>week3</vh>
+<v t="leo.20200702013751.2"><vh>week3-1</vh></v>
 </v>
-<v t="leo.20200625035541.1"><vh>week4</vh>
-<v t="leo.20200625035541.2"><vh>week4-1</vh></v>
+<v t="leo.20200702013807.1"><vh>week4</vh>
+<v t="leo.20200702013807.2"><vh>week4-1</vh></v>
 </v>
-<v t="leo.20200625035543.1"><vh>obs</vh>
-<v t="leo.20200625035543.2"><vh>week5-1</vh></v>
+<v t="leo.20200702013816.1"><vh>OBS</vh>
+<v t="leo.20200702013816.2"><vh>week6-0</vh></v>
 </v>
-<v t="leo.20200625035822.1"><vh>week6</vh>
-<v t="leo.20200625035822.2"><vh>week6-1</vh></v>
+<v t="leo.20200702013827.1"><vh>meeting-2</vh>
+<v t="leo.20200702013827.2"><vh>week6-1</vh></v>
 </v>
-<v t="leo.20200625035831.1"><vh>week7</vh>
-<v t="leo.20200625035831.2"><vh>week7-1</vh></v>
+<v t="leo.20200702013840.1"><vh>week7</vh>
+<v t="leo.20200702013840.2"><vh>week7-1</vh></v>
 </v>
-<v t="leo.20200625035839.1"><vh>week8</vh>
-<v t="leo.20200625035839.2"><vh>week8-1</vh></v>
+<v t="leo.20200702013849.1"><vh>week8</vh>
+<v t="leo.20200702013849.2"><vh>week8-1</vh></v>
 </v>
-<v t="leo.20200625042103.1"><vh>week9</vh>
-<v t="leo.20200625042103.2"><vh>week9-1</vh></v>
+<v t="leo.20200702013856.1"><vh>meeting-3</vh>
+<v t="leo.20200702013856.2"><vh>meeting-3</vh></v>
 </v>
-<v t="leo.20200625035840.1"><vh>week10</vh>
-<v t="leo.20200625035840.2"><vh>week10-1</vh></v>
+<v t="leo.20200702013904.1"><vh>week10</vh>
+<v t="leo.20200702013904.2"><vh>week10-1</vh></v>
 </v>
-<v t="leo.20200625035842.1"><vh>week11</vh>
-<v t="leo.20200625035842.2"><vh>week11-1</vh></v>
+<v t="leo.20200702013911.1"><vh>week11</vh>
+<v t="leo.20200702013911.2"><vh>week11-1</vh></v>
 </v>
-<v t="leo.20200625035843.1"><vh>week12</vh>
-<v t="leo.20200625035843.2"><vh>week12-1</vh></v>
+<v t="leo.20200702013920.1"><vh>meeting-4</vh>
+<v t="leo.20200702013920.2"><vh>meeting-4</vh></v>
 </v>
-<v t="leo.20200625035845.1"><vh>week13</vh>
-<v t="leo.20200625035845.2"><vh>week13-1</vh></v>
+<v t="leo.20200702013927.1"><vh>week12</vh>
+<v t="leo.20200702013927.2"><vh>week12-1</vh></v>
 </v>
-<v t="leo.20200625035846.1"><vh>week14</vh>
-<v t="leo.20200625035846.2"><vh>week14-1</vh></v>
+<v t="leo.20200702013938.1"><vh>week13</vh>
+<v t="leo.20200702013938.2"><vh>week13-1</vh></v>
 </v>
-<v t="leo.20200625043439.1"><vh>week15</vh>
-<v t="leo.20200625043439.2"><vh>weel15-1</vh></v>
+<v t="leo.20200702013945.1"><vh>week14</vh>
+<v t="leo.20200702013945.2"><vh>week14-1</vh></v>
 </v>
-<v t="leo.20200625043441.1"><vh>week16</vh>
-<v t="leo.20200625043441.2"><vh>week16-1</vh></v>
+<v t="leo.20200702013951.1"><vh>week15</vh>
+<v t="leo.20200702013951.2"><vh>week15-1</vh></v>
 </v>
-<v t="leo.20200625043444.1"><vh>week17</vh>
-<v t="leo.20200625043444.2"><vh>week17-1</vh></v>
+<v t="leo.20200702013957.1"><vh>week16</vh>
+<v t="leo.20200702013957.2"><vh>week16-1</vh></v>
+</v>
+<v t="leo.20200702014003.1"><vh>meeting-5</vh>
+<v t="leo.20200702014003.2"><vh>meeting-5</vh></v>
+</v>
+<v t="leo.20200702014008.1"><vh>week17</vh>
+<v t="leo.20200702014008.2"><vh>week17-1</vh></v>
 </v>
 </v>
 </v>
@@ -93,31 +99,11 @@
 ### KMOLab
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [cd2020-bg1](https://s40723246.github.io/cd2020-bg1/content/index.html)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
 
-
-</t>
-<t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-&lt;section&gt;
-</t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 <t tx="leo.20180902120523.2"></t>
@@ -290,123 +276,225 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200625035532.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-</t>
-<t tx="leo.20200625035532.2">&lt;!-- 請注意, @others 不可以內縮 --&gt;
-# 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20200625035536.1">@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20200625035536.2"></t>
-<t tx="leo.20200625035538.1">&lt;section data-markdown&gt;
+<t tx="leo.20200702013708.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
 </t>
-<t tx="leo.20200625035538.2">&lt;!-- 請注意, @others 不可以內縮 --&gt;
-## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
+<t tx="leo.20200702013708.2">### cd2020bg1
+###### 以下為組員
+[40723201](https://s40723201.github.io/cd2020/content/index.html)
+[40723206](https://s40723206.github.io/cd2020/content/index.html)
+[40723213](https://s40723213.github.io/cd2020/content/index.html)
+[40723216](https://s40723216.github.io/cd2020/content/index.html)
+[40723223](https://s40723223.github.io/cd2020/content/index.html)
+[40723226](https://s40723246.github.io/cd2020/content/index.html)
+[40723229](https://s40723229.github.io/cd2020/content/index.html)
+[40723230](https://s40723230.github.io/cd2020)
+[40723241](https://s40723241.github.io/cd2020/content/index.html)
+[40723242](https://s40723242.github.io/cd2020/content/index.html)
+</t>
+<t tx="leo.20200702013721.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
     &lt;/script&gt;
 &lt;/section&gt;
-
-
-
-						
-&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20200702013721.2">### week1
+##### 創建新的倉儲cd2020
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JQrKRM6t3_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013733.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20200625035540.1">@others
+@others
+    &lt;/script&gt;
 &lt;/section&gt;
+</t>
+<t tx="leo.20200702013733.2">### meeting-1
+##### 第一組第一次直播會議
+[meeting1](https://github.com/s40723246/cd2020/blob/master/downloads/meeting%20PDF/meeting%20first.pdf)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/062ZSwlIKT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200702013743.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013743.2">### assignment1
+[portable system](https://github.com/s40723246/cd2020/blob/master/downloads/portable%20system/portable%20system.pdf)
+[random group](https://github.com/s40723246/cd2020/blob/master/downloads/random%20group/random%20grouping.pdf)
+[four wheel](https://github.com/s40723246/cd2020/blob/master/downloads/four%20wheel%20pdf/%E6%A8%A1%E6%93%AC.pdf)</t>
+<t tx="leo.20200702013751.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013751.2">### week3
+#### 上傳製作完成PDF
+#### 由成員執行任務並編譯整理製作PDF
+#### 參考資料
+[CoppeliaSim User Manual](https://www.coppeliarobotics.com/helpFiles/index.html)</t>
+<t tx="leo.20200702013807.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013807.2">### week4
+##### 本周回報影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/z548viRDp7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200702013816.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013816.2">### week6
+##### OBS連接及設定往後影片頭像
+[OBS](https://obsproject.com/download)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rL1jEkRMufw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200702013827.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013827.2">### meeting-2
+##### 第一組第二次直播會議
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q0R_g1xw3dQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013840.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013840.2">### week6
+##### 第一組第二次直播會議
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q0R_g1xw3dQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013849.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013849.2">### week8
+##### 運用meeting進行直播 (meet) 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Tlc-ZAum1WI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013856.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013856.2">### meeting-3
+##### 第一組第三次直播會議
+[meeting3](https://github.com/s40723246/cd2020/blob/master/downloads/meeting%20PDF/meeting%20first.pdf)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/T3PWWPAqDgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013904.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013904.2">### week10
+##### google用戶登陸API
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HT7gmy6h71g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013911.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013911.2">### week11
+##### ubuntu設置
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yxK3Fz9sHO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013920.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013920.2">### meeting-4
+##### 第一組第四次直播會議
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lQDkfyxvzb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013927.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013927.2">### week12
+##### ubnutu對外連線(ipv4)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9-MtI-b946k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013938.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013938.2">### week13
+##### IPV6下伺服器連線設定
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-KX0SRDii-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702013945.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200702013945.2">### week14
+##### 虛擬主機及ubnutu bug解決方式
+
+[W14抽點網站](http://mde.tw/cdbw14-3)
+
+[W14抽點倉儲](https://github.com/mdecourse/cdbw14-3.git)
 
 </t>
-<t tx="leo.20200625035540.2"></t>
-<t tx="leo.20200625035541.1">@others
+<t tx="leo.20200702013951.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 </t>
-<t tx="leo.20200625035541.2"></t>
-<t tx="leo.20200625035543.1">@others
+<t tx="leo.20200702013951.2">### week15
+#### 內容簡介:
+
+##### 1.上周對於遠端連線之網路問題
+
+##### 2.debug的解決方式及圖片
+
+##### 3.遠端連線ipv6及ipv4的設定流程</t>
+<t tx="leo.20200702013957.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 </t>
-<t tx="leo.20200625035543.2"></t>
-<t tx="leo.20200625035822.1">@others
+<t tx="leo.20200702013957.2">### week16
+##### 個人網站對外連線設定:
+
+#### 輸入網址https://[2001:288:6004:17:2020:2:0:7246]:19443 (自己的ip)</t>
+<t tx="leo.20200702014003.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 </t>
-<t tx="leo.20200625035822.2"></t>
-<t tx="leo.20200625035831.1">@others
+<t tx="leo.20200702014003.2">### meeting-5
+##### 第一組第五次直播會議
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lQDkfyxvzb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702014008.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 </t>
-<t tx="leo.20200625035831.2"></t>
-<t tx="leo.20200625035839.1">@others
-</t>
-<t tx="leo.20200625035839.2"></t>
-<t tx="leo.20200625035840.1">@others
-</t>
-<t tx="leo.20200625035840.2"></t>
-<t tx="leo.20200625035842.1">@others
-</t>
-<t tx="leo.20200625035842.2"></t>
-<t tx="leo.20200625035843.1">@others
-</t>
-<t tx="leo.20200625035843.2"></t>
-<t tx="leo.20200625035845.1">@others
-</t>
-<t tx="leo.20200625035845.2"></t>
-<t tx="leo.20200625035846.1">@others
-</t>
-<t tx="leo.20200625035846.2"></t>
-<t tx="leo.20200625042103.1">@others
-</t>
-<t tx="leo.20200625042103.2"></t>
-<t tx="leo.20200625043439.1">@others
-</t>
-<t tx="leo.20200625043439.2"></t>
-<t tx="leo.20200625043441.1">@others
-</t>
-<t tx="leo.20200625043441.2"></t>
-<t tx="leo.20200625043444.1">@others
-</t>
-<t tx="leo.20200625043444.2"></t>
+<t tx="leo.20200702014008.2">### week17
+##### 期末報告
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zzApD98DmfI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
