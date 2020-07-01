@@ -94,15 +94,15 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
+<t tx="leo.20180902120523.10">## cd2020-bg1 網際內容管理
 
-### KMOLab
+### bg1
 
 &lt;small&gt;
 Created by [cd2020-bg1](https://s40723246.github.io/cd2020-bg1/content/index.html)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+
 
 
 </t>
@@ -120,7 +120,7 @@ Created by [cd2020-bg1](https://s40723246.github.io/cd2020-bg1/content/index.htm
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+cd2020-bg1
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
